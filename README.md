@@ -3,16 +3,21 @@
     
 - 👀 I’m interested in ...
     - Skateboarding
-    - Space
-    - Blockchain
     - Web Applications
+    - Blockchain
     - Art
+
+
 - 🌱 I’m currently learning ...
     - NextJS
     - Solidity
     - Python
+
+
 - 💞️ I’m looking to collaborate on ...
     - NextJS applications and Java applications
+
+
 - 📫 How to reach me ...
     - You can find me on LinkedIn : 
 
