@@ -19,7 +19,7 @@
 
 
 - 📫 How to reach me ...
-    - You can find me on LinkedIn : 
+    - You can find me on LinkedIn : https://www.linkedin.com/in/tshegofatso-sikhosana-047ab6139/
 
 <!---
 TshegofatsoSikhosana/TshegofatsoSikhosana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
