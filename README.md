@@ -12,12 +12,7 @@
     - NextJS
     - Solidity
     - Python
-
-
-- 💞️ I’m looking to collaborate on ...
-    - NextJS applications and Java applications
-
-
+    - 
 - 📫 How to reach me ...
     - You can find me on LinkedIn : https://www.linkedin.com/in/tshegofatso-sikhosana-047ab6139/
 
