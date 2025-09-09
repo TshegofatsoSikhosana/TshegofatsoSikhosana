@@ -2,9 +2,10 @@
     
 - 👀 I’m interested in ...
     - Skateboarding
-    - Web Applications
-    - Blockchain
     - Art
+    - Web Applications
+    - Tooling
+    - Docker
       
 - 📫 How to reach me ...
     - You can find me on LinkedIn : https://www.linkedin.com/in/tshegofatso-sikhosana-047ab6139/
